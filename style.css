@@ -508,7 +508,7 @@ h6, .h6 {
 }
 
 .lead {
-    font-size: 1.1rem;
+    font-size: 1.2rem;
     font-weight: 200;
 }
 
@@ -13262,9 +13262,7 @@ a.text-slack:hover, a.text-slack:focus {
   h3 {
         page-break-after: avoid;
     }
-  @    page {
-        size: a3;
-    }
+    
 
     body {
         min-width: 992px !important;
